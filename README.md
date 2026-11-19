@@ -4,14 +4,14 @@ I was born in 1996 in Yalova, Turkey. I started with PHP and MySQL at 14 and hav
 
 ### What I'm working on
 
-**[HayalAI](https://github.com/sercanesiktas/hayalai)**: an open prompt library with 17,086 prompts, each with a Turkish description. Search it in the browser, grab the CSV, or plug it into Claude and Cursor.
+[HayalAI](https://github.com/sercanesiktas/hayalai) is an open library of 17,086 prompts with Turkish descriptions. The data is published as CSV and Markdown, and there is an MCP server for using it from AI assistants.
 
 | | |
 |---|---|
-| [hayalai](https://github.com/sercanesiktas/hayalai) | The dataset: image, text, code, web, video and more |
-| [hayalai/mcp](https://github.com/sercanesiktas/hayalai/tree/main/mcp) | MCP server to search and fetch prompts from an AI assistant |
-| [hayalai/karakter-testi](https://github.com/sercanesiktas/hayalai/tree/main/karakter-testi) | Can image models spell ş, ğ, ı, İ correctly? A small OCR-based benchmark |
-| [hayalai/SAGLAYICI-NOTLARI.md](https://github.com/sercanesiktas/hayalai/blob/main/SAGLAYICI-NOTLARI.md) | Field notes: which image model keeps faces, what the free tiers really give, Laravel on shared hosting gotchas |
+| [hayalai](https://github.com/sercanesiktas/hayalai) | Prompt dataset (image, text, code, web, video and others) |
+| [hayalai-mcp](https://github.com/sercanesiktas/hayalai-mcp) | MCP server for searching and fetching prompts |
+| [karakter-testi](https://github.com/sercanesiktas/karakter-testi) | OCR-based test of how image models render Turkish letters |
+| [hayalai/SAGLAYICI-NOTLARI.md](https://github.com/sercanesiktas/hayalai/blob/main/SAGLAYICI-NOTLARI.md) | Notes on image generation providers, free tiers and costs, and Laravel on shared hosting |
 
 Site: [hayalai.app](https://hayalai.app)
 
